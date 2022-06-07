@@ -12,3 +12,7 @@ td {
 .navbar-end {
     margin-right: 10px;
 }
+/*notification-cache*/
+.el-notification.right {
+    left: 16px;
+}
