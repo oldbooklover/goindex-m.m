@@ -27,6 +27,6 @@ export default {
 <style scoped>
 object{
     width: 100%;
-    height: -webkit-fill-available;
+    height: 100%;
 }
 </style>
