@@ -2,9 +2,13 @@
 .tags.has-addons {display: none !important;}
 html {
     direction: rtl;
+}
+td {
     text-align: right !important;
+}
+.navbar-start {
+    margin-right: 20px;
 }
 .navbar-end {
     margin-right: 10px;
-    margin-left: inherit;
 }
