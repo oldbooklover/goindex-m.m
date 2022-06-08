@@ -6,6 +6,9 @@ html {
 td {
     text-align: right !important;
 }
+th {
+    text-align: right !important;
+}
 .navbar-start {
     margin-right: 20px;
 }
